@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/118544351814592871/fc3af82abbdd4606bcea5b1dc965a4b3/artifacts
+end_time: 1744805199938
+entry_point_name: ''
+experiment_id: '118544351814592871'
+lifecycle_stage: active
+run_id: fc3af82abbdd4606bcea5b1dc965a4b3
+run_name: receptive-hog-999
+run_uuid: fc3af82abbdd4606bcea5b1dc965a4b3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744805192871
+status: 3
+tags: []
+user_id: M Junaid

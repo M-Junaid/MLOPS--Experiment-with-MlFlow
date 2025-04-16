@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/118544351814592871/e60626db92894fad979ead03267fffdd/artifacts
+end_time: 1744548186312
+entry_point_name: ''
+experiment_id: '118544351814592871'
+lifecycle_stage: active
+run_id: e60626db92894fad979ead03267fffdd
+run_name: luxuriant-pig-713
+run_uuid: e60626db92894fad979ead03267fffdd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744548179615
+status: 3
+tags: []
+user_id: M Junaid

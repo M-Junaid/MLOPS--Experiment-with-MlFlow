@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/3c6e61800670450ebac76f9927b5bf24/artifacts
+end_time: 1744533528573
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3c6e61800670450ebac76f9927b5bf24
+run_name: respected-eel-156
+run_uuid: 3c6e61800670450ebac76f9927b5bf24
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744533527466
+status: 3
+tags: []
+user_id: M Junaid

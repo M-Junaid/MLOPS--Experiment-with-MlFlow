@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/26edd9febb9a476ca35ab5e0b85917fa/artifacts
+end_time: 1744532653160
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 26edd9febb9a476ca35ab5e0b85917fa
+run_name: auspicious-fowl-294
+run_uuid: 26edd9febb9a476ca35ab5e0b85917fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744532651040
+status: 3
+tags: []
+user_id: M Junaid
